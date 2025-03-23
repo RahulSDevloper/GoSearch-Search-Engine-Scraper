@@ -1,4 +1,4 @@
-# 🔍 Search Engine Scraper - GoSearch
+![GoSearch](https://github.com/user-attachments/assets/6a5cd17b-1494-4804-942e-2d104d1d533d)# 🔍 Search Engine Scraper - GoSearch
 
 <div align="center">
 
@@ -125,7 +125,7 @@ docker run rahulsdevloper/gosearch --query "golang programming"
 ## 🔧 Usage
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/RahulSDevloper/GoSearch-Search-Engine-Scraper/main/assets/GoSearch.png" alt="Usage Animation" width="700"/>
+<img src="[https://raw.githubusercontent.com/RahulSDevloper/GoSearch-Search-Engine-Scraper/main/assets/GoSearch.png](https://github.com/user-attachments/assets/a03b40fd-6cf2-4a4f-9381-928dc8ba5659)" alt="Usage Animation" width="700"/>
 </div>
 
 ```
