@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<!-- Animated Logo ASCII Art -->
 ```
    _____                     _     _____             _            
   / ____|                   | |   |  ___|           (_)           
@@ -78,16 +77,6 @@
 </table>
 </div>
 
-## 🧩 Architecture
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahulSDevloper/Search-Engine-Scraper---Golang/main/assets/architecture-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahulSDevloper/Search-Engine-Scraper---Golang/main/assets/architecture-light.png">
-  <img alt="Search Engine Scraper Architecture" src="https://raw.githubusercontent.com/RahulSDevloper/Search-Engine-Scraper---Golang/main/assets/architecture-light.png">
-</picture>
-</div>
-
 ## 🚀 Installation
 
 <div align="center">
@@ -136,7 +125,7 @@ docker run rahulsdevloper/gosearch --query "golang programming"
 ## 🔧 Usage
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/RahulSDevloper/Search-Engine-Scraper---Golang/main/assets/usage.svg" alt="Usage Animation" width="700"/>
+<img src="https://raw.githubusercontent.com/RahulSDevloper/GoSearch-Search-Engine-Scraper/main/assets/GoSearch.png" alt="Usage Animation" width="700"/>
 </div>
 
 ```
