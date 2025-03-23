@@ -1,4 +1,4 @@
-# 🔍 Search Engine Scraper - Golang
+# 🔍 Search Engine Scraper - GoSearch
 
 <div align="center">
 
